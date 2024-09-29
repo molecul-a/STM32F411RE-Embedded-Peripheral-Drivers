@@ -118,6 +118,7 @@ void ADC_IRQHandler(void){
 #include "stm32f4xx.h"
 #include "uart.h"
 #include "systick.h"
+#include "exti.h"
 
 #define GPIOAEN			(1U<<0)
 #define GPIOA_5			(1U<<5)
