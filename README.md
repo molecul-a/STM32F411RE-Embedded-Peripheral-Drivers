@@ -1,5 +1,3 @@
-Here’s a structured README file for your project:
-
 ---
 
 # Embedded Peripheral Drivers
