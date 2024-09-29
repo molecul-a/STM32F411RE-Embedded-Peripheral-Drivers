@@ -3,7 +3,9 @@
 # Embedded Peripheral Drivers
 
 ### Overview
-This project contains a set of low-level drivers for interfacing with common peripherals in an embedded system. The drivers provide a hardware abstraction layer (HAL) that simplifies communication and interaction with peripherals like ADCs, displays, and communication buses (I2C, SPI, UART).
+Low-level drivers for common embedded system peripherals, including ADC, I2C, SPI, UART, and more. This project provides a hardware abstraction layer (HAL) for efficient communication and control of microcontroller peripherals. Built for the STM32F411 microcontroller, the drivers support tasks such as analog-to-digital conversion, serial communication, interrupt handling, and more.
+
+Includes CMSIS and STM32 device-specific headers: core_cm4.h, stm32f411xe.h and stm32f4xx.h. You NEED include the header files to your project. 
 
 ### Features
 - **Analog-to-Digital Conversion (ADC)**: Capture and process analog signals.
