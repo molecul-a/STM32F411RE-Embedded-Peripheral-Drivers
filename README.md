@@ -308,19 +308,4 @@ int main(void)
 
 
 ---
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## Contributions
-Feel free to submit issues or pull requests for any improvements or bug fixes.
-
----
-
-## Contact
-For any questions or support, please reach out to:  
-**Your Name** - Artimeevich@gmail.com
-
 ---
