@@ -306,6 +306,4 @@ int main(void)
 - **uart.c / uart.h**:  
    UART communication driver for serial data transfer.
 
-
----
 ---
